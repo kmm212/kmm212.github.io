@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a student at Duke University! 
+----------------------------
 **A LITTLE BIT ABOUT ME**
 ===========================
 I like to eat Ice cream!
